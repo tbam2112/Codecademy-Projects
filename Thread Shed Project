@@ -1,4 +1,8 @@
 #A giant string of messy data
+#Code starts at line 115
+
+
+
 daily_sales = \
 """Edith Mcbride   ;,;$1.21   ;,;   white ;,; 
 09/15/17   ,Herbert Tran   ;,;   $7.29;,; 
@@ -107,7 +111,7 @@ green&white;,;09/15/17,   Gail Phelps   ;,;$30.52
 ;,;   $22.66   ;,; green&white&blue;,;09/15/17"""
 
 #------------------------------------------------
-# Start coding below!
+
 #replace ';,;' so I can split the data by ','
 daily_sales_replaced = daily_sales.replace(";,;", ";")
 
