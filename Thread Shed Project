@@ -183,7 +183,8 @@ def color_count(color):
       count += 1
   return count
   
-color_sold = color_count("white") #test 
+#test
+color_sold = color_count("white") 
 #print(color_sold) #should = 28
 
 
