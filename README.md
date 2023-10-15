@@ -1,11 +1,11 @@
 # Codecademy-Projects
 Projects Codecademy offers off their platform for you to get experience on your local machine, in your personal coding environment.
-
+-----------------------------------------------------------------------------------------------
 **Thread Shed Project**: 
 A program designed to organize and sort messy data in the form of one giant string. In order to, sort information and gain insight into sales. 
 After cleaning and sorting the data. I'm able to find the total revenue for the day as well as how much of what individual item was sold.
 
-
+-----------------------------------------------------------------------------------------------
 **Page Visits Funnel**:
 Cool T-Shirts Inc. has asked you to analyze data on visits to their website. Your job is to build a funnel, which is a description of how many people continue to the next step of a multi-step process.
 
